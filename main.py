@@ -1,0 +1,1 @@
+print ("Hello Aleksandr Nikolaevich, postavte mne 12")
